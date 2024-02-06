@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack web and mobile app dev.
 - 🌱 I’m currently learning front end frameworks like react, vue, and angular.
 - 💞️ I’m looking to collaborate on interesting new app ideas.
-- 📫 How to reach me: Steven7962@knights.ucf.edu
+- 📫 How to reach me: Steven7926@gmail.com
