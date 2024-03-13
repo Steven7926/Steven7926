@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Steven!
 - 👀 I’m interested in full stack web and mobile app dev.
-- 🌱 I’m currently learning front end frameworks like react, vue, and angular.
-- 💞️ I’m looking to collaborate on interesting new app ideas.
+- 🌱 I’m currently learning front end frameworks like react, and backend languages like Go.
 - 📫 How to reach me: Steven7926@gmail.com
