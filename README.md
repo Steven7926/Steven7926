@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Steven!
-- 👀 I’m interested in full stack web and mobile app dev.
-- 🌱 I’m currently learning front end frameworks like react, and backend languages like Go.
+- 🌱 I’m currently learning frontend alternatives like htmx, and backend languages like Go, Zig, and Rust.
 - 📫 How to reach me: Steven7926@gmail.com
