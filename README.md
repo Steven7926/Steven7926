@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Steven!
-- 🌱 Currently learning frontend alternatives like htmx, and backend languages like Go, Zig, and Rust because I'll lose my mind if I learn one more javascript framework.
+- 🌱 Currently learning frontend alternatives like htmx, and backend languages like Go, Zig, and Rust.
 - 📫 How to reach me: Steven7926@gmail.com
